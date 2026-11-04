@@ -1,7 +1,7 @@
 schema_version: 1
 
 context:
-  version: "1.1.1"
+  version: "1.1.2"
 
 package:
   name: pystac-ext-grid
@@ -9,7 +9,7 @@ package:
 
 source:
   url: https://pypi.org/packages/source/p/pystac-ext-grid/pystac_ext_grid-${{ version }}.tar.gz
-  sha256: 00070bc4fd26aadc6b21a1f24250e33c1719773fff14487bd0c08b0b89f06438
+  sha256: 0da9cea1a53b9f4851c0c9458e969f31bce0fb64ff0120e3b49513213eaa56be
 
 build:
   number: 0
